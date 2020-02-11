@@ -1,0 +1,22 @@
+{
+    "author": {
+      "name": "fuejanss",
+      "id": "409335048010203158"
+    },
+    "service": "Letgo",
+    "description": {
+      "en": "Sell things you don't use and find great deals.",
+      "tr": "Kullanmadığın şeyleri sat ve harika fırsatlar bul."
+    },
+    "url": ["www.letgo.com"],
+    "version": "1.0",
+    "logo": "https://i.imgur.com/gARdMYT.png",
+    "thumbnail": "https://i.imgur.com/yOLS9xj.png",
+    "color": "#ec3551",
+    "tags": [
+      "letgo",
+      "shopping",
+      "turkish"
+    ],
+    "category": "other"
+  }
